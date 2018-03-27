@@ -1,0 +1,52 @@
+.Navbar {
+   background-color: rgb(30, 51, 155);
+   display: flex;
+   padding: 20px;
+   font-family: sans-serif;
+   color: white;
+   
+ }
+ .Navbar__Link {
+   padding-right: 10px;
+ }
+ .Navbar__Items {
+   display: flex;
+ }
+ .Navbar__Items--right {
+   margin-left:auto;
+ }
+ .Navbar__Link-toggle {
+   display: none;
+ }
+
+ a {
+    color: azure;
+ }
+ a:hover {
+   color: red;
+ }
+ .Navbar__Link-toggle:hover{
+   color: rgb(198, 17, 17);
+ }
+
+ @media only screen and (max-width: 768px) {
+   .Navbar__Items,
+   .Navbar {
+     flex-direction: column;
+   }
+ .Navbar__Items {
+     display:none;
+   }
+ .Navbar__Items--right {
+     margin-left:0;
+   }
+ .Navbar__ToggleShow {
+     display: flex;
+   }
+ .Navbar__Link-toggle {
+     align-self: flex-end;
+     display: initial;
+     position: absolute;
+     cursor: pointer;
+    } 
+ }
