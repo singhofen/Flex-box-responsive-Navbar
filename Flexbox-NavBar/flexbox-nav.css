@@ -1,3 +1,7 @@
+html{
+  background-color: grey;
+}
+
 .Navbar {
    background-color: rgb(30, 51, 155);
    display: flex;
