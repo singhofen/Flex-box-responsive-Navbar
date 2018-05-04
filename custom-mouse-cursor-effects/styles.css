@@ -1,0 +1,56 @@
+body {
+   display: flex;/*make this a flex container*/
+   justify-content: center;/* horizonatally center the child elements*/
+   align-items: center;/*vertically center the child elements*/
+   min-height: 100vh;/*take up 100% of the user's veiwport*/
+  }
+
+body{
+   background-color: rgb(17, 17, 98);
+   color: rgb(26, 231, 26);
+   font-size: 3em;
+   text-align: center;
+   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+main{
+   border: 3px dashed #bdc3c7;
+   cursor: pointer;
+   max-width: 60%;
+   padding: 1.5rem 2rem;/*the TOP AND BOTTOM = 1.5rem & the LEFT AND RIGHT PADDING = 2rem*/
+}
+
+/*positioning context setup below*/
+main {
+   position: relative;/*this will set up a positioning context on the element. somthing like a coordinate system*/
+  }
+
+.main_hover-up,
+.main_hover-down{
+   position: absolute;/*make sure these elements take part in the positioning context created by the parent*/
+   top: -102%;/*position them within the positioning context*/
+   left: 0;
+   height: 100%;
+   width: 100%;
+   transform: scale(2);/* 2x the horizontal elements dimensions*/
+   transform-origin: 50% 100%;/*make sure the scaling above originates from the center of the elements*/
+}
+
+.main_hover-down{/*move one of the elements down*/
+   top: 102%;
+}
+
+.main_hover-up,
+.main_hover-down {
+ background: transparent
+}
+
+.main_hover-up:hover {
+   cursor: url(http://bit.ly/2DfPhcj),pointer;
+ }
+ .main_hover-down:hover {
+   cursor: url(http://bit.ly/2GaJR5q), pointer;
+ }
+ .main{
+  
+ }
