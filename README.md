@@ -30,4 +30,21 @@ Mobile Version(s)
 ---
 ![image](https://user-images.githubusercontent.com/23155302/39641717-3cf03184-4f9d-11e8-968b-aa6308f2174a.png)
 
+# Custom SVG Mouse/Cursor Effects snippets. Notice the enlarged mouse pointer in the image. 
+As it is moved up and down the webpage it changes direction with the enlarged cursor. 
+View the codepen below:
+https://codepen.io/csinghofen/pen/RyLbwo?editors=1010
 
+![image](https://user-images.githubusercontent.com/23155302/39655855-167f3cd4-4fca-11e8-96a8-3fd5ea5982c5.png)
+
+---
+---
+![image](https://user-images.githubusercontent.com/23155302/39655979-ccb0327e-4fca-11e8-9adb-5b913afa1707.png)
+
+---
+---
+![image](https://user-images.githubusercontent.com/23155302/39656021-1c2f05a0-4fcb-11e8-8e61-eadbc77ebe67.png)
+
+---
+---
+![image](https://user-images.githubusercontent.com/23155302/39656039-4519ec1e-4fcb-11e8-98fc-4720a55efe62.png)
