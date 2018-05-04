@@ -1,14 +1,10 @@
 # Flexbox-Horizonal Scroll Effects- Mobile friendly
 Sroll through webpages using a horizontal scroll bar.
 
+![image](https://user-images.githubusercontent.com/23155302/39652239-e60298a8-4fba-11e8-8ee4-e53ad41e57f6.png)
 
-
-
-
-
-
-
-
+---
+---
 # Flex-box-responsive-Navbar
 Flex-box responsive Navbar
 
