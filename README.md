@@ -48,3 +48,8 @@ https://codepen.io/csinghofen/pen/RyLbwo?editors=1010
 ---
 ---
 ![image](https://user-images.githubusercontent.com/23155302/39656039-4519ec1e-4fcb-11e8-98fc-4720a55efe62.png)
+
+---
+Emoji css 
+![image](https://user-images.githubusercontent.com/23155302/40273534-89b0012c-5b8f-11e8-833c-8c17e593bf3e.png)
+
