@@ -1,6 +1,8 @@
 # Flexbox-Horizonal Scroll Effects- Mobile friendly
 Sroll through webpages using a horizontal scroll bar.
 
+https://codepen.io/csinghofen/pen/pBRxMq Horizontal scroll fade in text Overlay
+
 https://codepen.io/csinghofen/pen/erEwMv Horizontal scrolling
 
 https://codepen.io/csinghofen/pen/RyLbwo  Custom SVG Mouse/cursor effects
@@ -24,7 +26,6 @@ https://codepen.io/csinghofen/pen/RyLbwo?editors=1010
 
 ![image](https://user-images.githubusercontent.com/23155302/39655855-167f3cd4-4fca-11e8-96a8-3fd5ea5982c5.png)
 
----
 ---
 Emoji css 
 ![image](https://user-images.githubusercontent.com/23155302/40273534-89b0012c-5b8f-11e8-833c-8c17e593bf3e.png)
