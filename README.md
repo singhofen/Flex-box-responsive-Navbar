@@ -14,29 +14,10 @@ https://codepen.io/csinghofen/pen/QmoKgQ Flexbox navbar
 # Flex-box-responsive-Navbar
 Flex-box responsive Navbar
 
----
+
 ---
 full screen version
-
-![image](https://user-images.githubusercontent.com/23155302/39641589-c5be34b2-4f9c-11e8-8d1b-ffa9e4316c46.png)
-
----
----
-Tablet / small screen version
-
-![image](https://user-images.githubusercontent.com/23155302/39641620-e0209908-4f9c-11e8-96eb-0c155507a582.png)
-
----
----
-Mobile Version(s)
-
-![image](https://user-images.githubusercontent.com/23155302/39641685-1dcfdb7e-4f9d-11e8-9818-a59f17a6c00c.png)
-
----
----
-![image](https://user-images.githubusercontent.com/23155302/39641717-3cf03184-4f9d-11e8-968b-aa6308f2174a.png)
-
-# Custom SVG Mouse/Cursor Effects snippets. Notice the enlarged mouse pointer in the image. 
+### Custom SVG Mouse/Cursor Effects snippets. Notice the enlarged mouse pointer in the image. 
 As it is moved up and down the webpage it changes direction with the enlarged cursor. 
 View the codepen below:
 https://codepen.io/csinghofen/pen/RyLbwo?editors=1010
@@ -44,10 +25,6 @@ https://codepen.io/csinghofen/pen/RyLbwo?editors=1010
 ![image](https://user-images.githubusercontent.com/23155302/39655855-167f3cd4-4fca-11e8-96a8-3fd5ea5982c5.png)
 
 ---
----
-![image](https://user-images.githubusercontent.com/23155302/39655979-ccb0327e-4fca-11e8-9adb-5b913afa1707.png)
-
-
 ---
 Emoji css 
 ![image](https://user-images.githubusercontent.com/23155302/40273534-89b0012c-5b8f-11e8-833c-8c17e593bf3e.png)
